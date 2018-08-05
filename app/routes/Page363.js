@@ -61,7 +61,7 @@ class Page363 extends Component {
                       fontFamily: "FuturaPTWeb"
                     }}
                   >
-                    yuan wang
+                    lee hyunjae
                   </span>
                 </div>
                 <div style={{ display: "inline-block" }}>
